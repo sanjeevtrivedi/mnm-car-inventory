@@ -1,0 +1,14 @@
+micronaut:
+  application:
+    name: mnmCarInventory
+  server:
+    port: ${APP_PORT:8082}
+endpoints:
+  health:
+    enabled: true
+    sensitive: false
+#    details-visible: ANONYMOUS
+netty:
+  default:
+    allocator:
+      max-order: 3

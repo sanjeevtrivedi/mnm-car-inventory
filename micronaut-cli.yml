@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: net.mnm.adc.inventory
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, http-client, jackson-databind, java, java-application, jib, junit, logback, management, maven, netty-server, readme, shade, yaml]
