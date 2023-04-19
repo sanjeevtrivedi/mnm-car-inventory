@@ -1,4 +1,4 @@
-## Mahindra Car Inventory - Demo Project
+## MnM Car Inventory - Demo Project
 
 - Dummy project to configure developer workbench
 
